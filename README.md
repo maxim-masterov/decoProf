@@ -10,7 +10,7 @@ After this, add the path to the `decoProf` folder to the `PyTHONPATH` environmen
 ### Using `setup.py`
 Call for:
 ```bash
-python3 install .
+pip3 install .
 ```
 This will install `decoProf` as a binary and as a site package along with other `site-packages` on your system.
 
